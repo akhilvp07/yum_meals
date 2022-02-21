@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:yum_meals/categories_screen.dart';
-import 'package:yum_meals/category_meals_screen.dart';
+import 'package:yum_meals/screens/categories_screen.dart';
+import 'package:yum_meals/screens/category_meals_screen.dart';
 
 void main() {
   runApp(const MyApp());
